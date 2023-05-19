@@ -62,7 +62,7 @@ header{
 
         section{
             background-color: greenyellow;
-            display: flex;
+            display: grid;
             grid-template-columns: auto;
   
         }
